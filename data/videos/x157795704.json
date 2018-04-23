@@ -1,0 +1,39 @@
+{
+    "title": "Shelly Giron",
+    "description": "",
+    "referenceId": "b57012019d0d06ebba208a69d97214a2",
+    "date_created": "1522775387",
+    "date_modified": "1522775387",
+    "tags": "",
+    "sourceId": "6",
+    "status": "processing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "0",
+    "id": "157795704",
+    "loginId": "1759121",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "157795715",
+    "titleTextEncoded": "Shelly-Giron",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "",
+    "duration": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

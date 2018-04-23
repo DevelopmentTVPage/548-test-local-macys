@@ -1,0 +1,153 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "157795642",
+            "title": "Joyce W.",
+            "date_created": "1522768591",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "45",
+                    "width": 608,
+                    "height": 1080
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 608,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 404,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 270,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 202,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 134,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "45",
+                "prettyDuration": "00:00:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/thumb-1d502877b30b7ac6304eb47f1be4298b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/media.m3u8"
+            },
+            "parentId": "157795715",
+            "url": "\/test\/joyce-w\/157795715-157795642"
+        },
+        {
+            "id": "157795703",
+            "title": "Fran's Macy's Style Crew video",
+            "date_created": "1522775343",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "66",
+                    "width": 480,
+                    "height": 640
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 270,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 180,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "66",
+                "prettyDuration": "00:01:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/thumb-13c9367591031001127fa9d8bb580be2-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1759121\/157795703\/cdcdf\/media.m3u8"
+            },
+            "parentId": "157795715",
+            "url": "\/test\/fran-s-macy-s-style-crew-video\/157795715-157795703"
+        },
+        {
+            "id": "157795704",
+            "title": "Shelly Giron",
+            "date_created": "1522775387",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": ""
+            },
+            "parentId": "157795715",
+            "url": "\/test\/shelly-giron\/157795715-157795704"
+        }
+    ]
+}

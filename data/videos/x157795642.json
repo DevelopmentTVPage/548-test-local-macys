@@ -1,0 +1,84 @@
+{
+    "title": "Joyce W.",
+    "description": "",
+    "referenceId": "1d502877b30b7ac6304eb47f1be4298b",
+    "date_created": "1522768591",
+    "date_modified": "1522768632",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "0",
+    "id": "157795642",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Joyce-W",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 608,
+            "height": 1080
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/thumb-1d502877b30b7ac6304eb47f1be4298b-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/157795642\/599ca\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
